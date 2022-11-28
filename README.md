@@ -1,5 +1,6 @@
 # Kafka5
 
-## Run Docker file 
-## Run producer
-## Run consumer
+# Steps to run 
+- Run Docker file 
+- Run producer
+- Run consumer
